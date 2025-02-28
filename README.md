@@ -102,9 +102,7 @@ model = load_model('model.h5')
 - The dataset is sourced from **Kaggle** and publicly available MRI scans.
 - The **VGG16** model is used for transfer learning.
 - The project is implemented using **TensorFlow, Keras, and Python**.
-
-## Contributing
-Feel free to submit **issues** or **pull requests** if you find improvements or want to contribute!
+  
 
 ## License
 This project is licensed under the **MIT License**.
