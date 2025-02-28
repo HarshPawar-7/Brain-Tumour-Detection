@@ -1,5 +1,7 @@
 # Brain-Tumor-Detection-Using-Deep-Learning
 
+##Acheieved Accuracy upto 98%##
+
 ## Overview
 This project implements a deep learning model for detecting brain tumors using MRI images. It leverages transfer learning with the VGG16 model to classify MRI scans into four categories: glioma, meningioma, pituitary, and no tumor. The model is trained using TensorFlow and Keras on a labeled dataset and achieves high accuracy in detecting brain tumors.
 
